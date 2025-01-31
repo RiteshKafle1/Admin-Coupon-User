@@ -1,1 +1,1 @@
-This is a Admin dashboard for product .Admin is able to create a product,edit a product,remove a product and delete it.
+This is an api for user cart.User is able to add product,edit and remove as well as view all the items in the cart
