@@ -1,1 +1,1 @@
-This is an api for user cart.User is able to add product,edit and remove as well as view all the items in the cart
+This is an api from which admin is able to create a coupon for discount as well as validation of a certain coupon for user.
